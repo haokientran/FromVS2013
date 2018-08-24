@@ -41,6 +41,7 @@ namespace DelegateAndLambda
                 if (test(item))
                     result.Add(item);
             return result.ToArray();
+
         }
     }
 
